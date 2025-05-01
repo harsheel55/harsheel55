@@ -3,6 +3,7 @@
 🎓 I’m currently pursuing **B.Tech in Information Technology**  
 🌱 I’m learning **Full Stack Web Development**, **Mobile Application Development**, and **AI & ML**  
 💼 I’m looking for **Internship** and **Job opportunities** in the above-mentioned domains  
+📫 How to reach me: **harsheelkasodariya2005@gmail.com**
 
 
 ## 🌐 Socials:
