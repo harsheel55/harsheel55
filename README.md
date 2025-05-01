@@ -1,8 +1,9 @@
-## Hi 👋 I am Harsheel Kasodariya
+## 💫 About Me  
+👋 Hi, I’m **Harsheel Kasodariya**  
+🎓 I’m currently pursuing **B.Tech in Information Technology**  
+🌱 I’m learning **Full Stack Web Development**, **Mobile Application Development**, and **AI & ML**  
+💼 I’m looking for **Internship** and **Job opportunities** in the above-mentioned domains  
 
-- 🔭 I’m currently studing in B.Tech IT
-- 🌱 I’m currently learning Full Stack Web Development, Mobile Application Development and AI & ML
-- 👯 I’m looking for Internship and Job in above mentioned roles
 
 ## 🌐 Socials:
 
